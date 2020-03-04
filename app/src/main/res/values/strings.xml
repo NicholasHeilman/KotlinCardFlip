@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CardFlip</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back_answer">This is the Card Back!!!! The Answer will go here.</string>
+    <string name="front_question">Front of Card Question Goes Here</string>
+</resources>
